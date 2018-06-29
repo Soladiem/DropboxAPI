@@ -1,0 +1,12 @@
+{
+    "name": "soladiem/localhost",
+    "authors": [
+        {
+            "name": "Denis Sitko",
+            "email": "sitko.dv@mail.ru"
+        }
+    ],
+    "require": {
+        "kunalvarma05/dropbox-php-sdk": "^0.2.1"
+    }
+}

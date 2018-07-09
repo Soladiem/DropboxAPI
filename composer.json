@@ -1,9 +1,12 @@
 {
-    "name": "soladiem/localhost",
+    "name": "soladiem/dropbox-api",
+    "description": "An example of working with the Dropbox API",
+    "version": "1.0.2",
+    "keywords": ["dropbox api", "api", "soladiem"],
     "authors": [
         {
             "name": "Denis Sitko",
-            "email": "sitko.dv@mail.ru"
+            "email": "sitko.dv@gmail.com"
         }
     ],
     "require": {

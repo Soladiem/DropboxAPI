@@ -13,4 +13,9 @@
 https://github.com/kunalvarma05/dropbox-php-sdk
   
 Если все сделано правильно, то должно работать.
- 
+
+### Установка через Composer
+`composer require soladiem/dropbox-api`
+
+### Требования
+PHP 7.0
